@@ -36,7 +36,7 @@ Running The Emulator (emu8086) Intro 8086 Microprocessor Emulator, also known as
 6.	Click OK to see/view the output of your program on the Emulator screen. 
 7.	After running the program, another menu screen will be displayed, where you have the option to “View” symbol table,
 
-	![image](https://user-images.githubusercontent.com/36288975/189273263-d65baae9-4b8f-4723-afb3-c0ffa4052b04.png)
+     ![image](https://user-images.githubusercontent.com/36288975/189273263-d65baae9-4b8f-4723-afb3-c0ffa4052b04.png)
     
 9.	Click on emulate to start emulation.
 
@@ -44,7 +44,7 @@ Running The Emulator (emu8086) Intro 8086 Microprocessor Emulator, also known as
 
 10.	If no errors are found click on run the program and check the status of various flags in the flags tab as shown beloW.
 	
-![image](https://user-images.githubusercontent.com/36288975/189273277-113a2a33-4a40-4ff8-95a5-ecd3a1f504fe.png)
+    ![image](https://user-images.githubusercontent.com/36288975/189273277-113a2a33-4a40-4ff8-95a5-ecd3a1f504fe.png)
 
 
 ##  PROGRAMS FOR ARITHMETIC OPERATION :
