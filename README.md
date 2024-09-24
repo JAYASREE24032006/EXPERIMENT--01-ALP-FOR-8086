@@ -1,13 +1,13 @@
 # EX 01  - ALP FOR 8086
 
 
-###Name : R.Jayasree
+### Name : R.Jayasree
 
 
-###Reg no : 212223040074
+### Reg no : 212223040074
 
 
-###Date of experiment : 13.08.2024
+### Date of experiment : 13.08.2024
 
 
 
@@ -35,10 +35,15 @@ Running The Emulator (emu8086) Intro 8086 Microprocessor Emulator, also known as
 5.	Run (once there is no syntax error) 
 6.	Click OK to see/view the output of your program on the Emulator screen. 
 7.	After running the program, another menu screen will be displayed, where you have the option to “View” symbol table,
+  
 8.	![image](https://user-images.githubusercontent.com/36288975/189273263-d65baae9-4b8f-4723-afb3-c0ffa4052b04.png)
-9.	Click on emulate to start emulation 
+    
+9.	Click on emulate to start emulation
+
 ![image](https://user-images.githubusercontent.com/36288975/189273273-9bb36ec1-e2e8-4892-8d35-37707332bfdc.png)
+
 10.	If no errors are found click on run the program and check the status of various flags in the flags tab as shown belo
+	
 ![image](https://user-images.githubusercontent.com/36288975/189273277-113a2a33-4a40-4ff8-95a5-ecd3a1f504fe.png)
 
 
