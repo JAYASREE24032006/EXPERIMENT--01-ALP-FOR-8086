@@ -1,6 +1,12 @@
-# EXPERIMENT--01-ALP-FOR-8086
+# EX 01  - ALP FOR 8086
+
+
 Name : R.Jayasree
+
+
 Reg no : 212223040074
+
+
 Date of experiment : 24.09.2024
 
 
